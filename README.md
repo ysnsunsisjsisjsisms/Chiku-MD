@@ -124,21 +124,3 @@ Note: If you don't pre-install these plugins before CMD Installation bot couldn'
 </br> 
 
 ## ✧✧✧ Bot prefix is changed now (.menu)
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
-
-
-
