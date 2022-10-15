@@ -124,3 +124,6 @@ Note: If you don't pre-install these plugins before CMD Installation bot couldn'
 </br> 
 
 ## ✧✧✧ Bot prefix is changed now (.menu)
+
+
+`Xeon` for [Cheems](https://github.com/DGXeon/CheemsBot-MD2) for vn message 
