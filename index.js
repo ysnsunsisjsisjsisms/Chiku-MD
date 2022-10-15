@@ -149,7 +149,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 if (anu.action == 'add') {
                 let WAuserName = num
                 mikutext = `
-Hello @${WAuserName.split("@")[0]},
+Hello baby @${WAuserName.split("@")[0]},
 
 I am *chiku*, Welcome to ${metadata.subject}.
 
@@ -168,9 +168,9 @@ Miku.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                 	let WAuserName = num
                     mikutext = `
-good bye 👋, @${WAuserName.split("@")[0]},
+bye baby🧸, @${WAuserName.split("@")[0]},
 
-I hope you will come back soon, but we are not going to miss you though!
+we never miss you🤭!
 `
 
     let buttonMessage = {
