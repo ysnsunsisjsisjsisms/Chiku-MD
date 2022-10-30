@@ -8,10 +8,10 @@ global.antitags = true
 
 
 global.Owner = ['919006765023']
-global.OwnerNumber = ['919006765023']
+global.OwnerNumber = ['39351688957']
 global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
+global.BotName = "nora-bot"
+global.packname = "nora-bot"
 global.author = "By: Ayush"
 global.OwnerName = "Ayush"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
